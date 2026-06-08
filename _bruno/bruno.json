@@ -1,0 +1,6 @@
+{
+    "version": "1",
+    "name": "Dice API - AWS Overview",
+    "type": "collection",
+    "ignore": ["node_modules", ".git", "dist"]
+}
